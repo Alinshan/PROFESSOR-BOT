@@ -86,3 +86,12 @@ broadcast - to broadcast a message to all Eva Maria users
 Licensed under [GNU AGPL 2.0.]
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
+## Developer
+  <div align="center">
+      
+  [![ALINSHAN](https://github.com/Alinshan.png?size=200)](https://github.com/Alinshan) |  
+----|
+[<div align="center">ALINSHAN](https://github.com/Alinshan)  |    
+Base, Bug Fixes, Modules  |
+
+</div>
